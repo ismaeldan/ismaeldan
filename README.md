@@ -1,4 +1,4 @@
-### Olá, eu sou o Ismael Dantas
+## Olá, eu sou o Ismael Dantas
 
 Desenvolvedor Back-End | Front-End | JavaScript | Node.js| React.js
 
@@ -18,4 +18,12 @@ Rocketseat e Digital Innovation One.
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+</div><br/>
+
+![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaeldan&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaeldan&layout=compact)
+
+## Contatos
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaeldan/)
